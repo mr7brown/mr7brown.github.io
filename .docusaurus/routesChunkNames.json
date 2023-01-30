@@ -1,460 +1,417 @@
 {
-  "/docs/__docusaurus/debug-d38": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
-  "/docs/__docusaurus/debug/config-902": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
-  "/docs/__docusaurus/debug/content-857": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    },
-    "allContent": "allContent---docs-docusaurus-debug-content-246-f36"
-  },
-  "/docs/__docusaurus/debug/globalData-f7d": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
-  "/docs/__docusaurus/debug/metadata-7fb": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
-  "/docs/__docusaurus/debug/registry-2bb": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
-  "/docs/__docusaurus/debug/routes-8ff": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
-    }
-  },
   "/docs/blog-a89": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---docs-blog-766-eb1"
+        "content": "7661071f"
       },
       {
-        "content": "content---docs-blogf-4-f-d6a"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---docs-blog-871-997"
+        "content": "8717b14a"
       },
       {
-        "content": "content---docs-blog-925-d65"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---docs-blog-6-e-5-255"
+    "metadata": "6e59e873"
   },
   "/docs/blog/archive-989": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "archive": "archive---docs-blog-archivee-14-c5f"
+    "archive": "e14e76e6"
   },
   "/docs/blog/first-blog-post-37f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
-    "content": "content---docs-blog-first-blog-poste-27-e58"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/docs/blog/long-blog-post-ec4": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
-    "content": "content---docs-blog-long-blog-post-736-593"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/docs/blog/mdx-blog-post-be8": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
-    "content": "content---docs-blog-mdx-blog-post-593-e02"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/docs/blog/tags-ae3": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
-    "tags": "tags---docs-blog-tags-96-c-b2e"
+    "sidebar": "814f3328",
+    "tags": "96cd1e66"
   },
   "/docs/blog/tags/docusaurus-1b7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---docs-blog-766-eb1"
+        "content": "7661071f"
       },
       {
-        "content": "content---docs-blogf-4-f-d6a"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---docs-blog-871-997"
+        "content": "8717b14a"
       },
       {
-        "content": "content---docs-blog-925-d65"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---docs-blog-tags-docusaurus-7-d-2-514",
-    "listMetadata": "listMetadata---docs-blog-tags-docusaurus-8-dc-f5e"
+    "tag": "7d2122a7",
+    "listMetadata": "8dcef946"
   },
   "/docs/blog/tags/facebook-cb2": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---docs-blog-766-eb1"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---docs-blog-tags-facebookb-50-e6d",
-    "listMetadata": "listMetadata---docs-blog-tags-facebook-75-a-357"
+    "tag": "b50dee57",
+    "listMetadata": "75a0b613"
   },
   "/docs/blog/tags/hello-700": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---docs-blog-766-eb1"
+        "content": "7661071f"
       },
       {
-        "content": "content---docs-blog-871-997"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---docs-blog-tags-hello-8-af-133",
-    "listMetadata": "listMetadata---docs-blog-tags-helloff-1-d3c"
+    "tag": "8af6ac7f",
+    "listMetadata": "ff1aa532"
   },
   "/docs/blog/tags/hola-89b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---docs-blog-925-d65"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---docs-blog-tags-holaf-03-9b6",
-    "listMetadata": "listMetadata---docs-blog-tags-hola-3-a-2-9b1"
+    "tag": "f03811bd",
+    "listMetadata": "3a2f8c29"
   },
   "/docs/blog/welcome-243": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---docs-blog-44-e-f56"
+      "plugin": "44eda56c"
     },
-    "sidebar": "sidebar---docs-blog-814-2a0",
-    "content": "content---docs-blog-welcomed-9-f-488"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/docs/docs/tags-0ac": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__comp": "3720c009",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tags": "tags---docs-docs-tags-559-dbc"
+    "tags": "55960ee5"
   },
   "/docs/docs/tags/account-configuration-a44": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-account-configuration-79-b-585"
+    "tag": "79b46b46"
   },
   "/docs/docs/tags/adobe-illustrator-b58": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-adobe-illustratord-4-c-4f4"
+    "tag": "d4c99baa"
   },
   "/docs/docs/tags/adobe-in-design-664": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-adobe-in-design-77-d-863"
+    "tag": "77d4bd46"
   },
   "/docs/docs/tags/advertising-53a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-advertisingfc-4-9c6"
+    "tag": "fc4e58e0"
   },
   "/docs/docs/tags/amazon-028": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-amazon-56-a-74d"
+    "tag": "56aa3573"
   },
   "/docs/docs/tags/api-db5": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-apid-6-a-423"
+    "tag": "d6a2016c"
   },
   "/docs/docs/tags/data-analytics-ae9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-data-analytics-504-8e1"
+    "tag": "5048e442"
   },
   "/docs/docs/tags/data-visualization-8ec": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-data-visualization-01-b-e50"
+    "tag": "01b510ce"
   },
   "/docs/docs/tags/facebook-d0e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-facebook-9-df-06b"
+    "tag": "9df2e21a"
   },
   "/docs/docs/tags/git-b2f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-git-7-f-7-ff2"
+    "tag": "7f70f261"
   },
   "/docs/docs/tags/github-f9f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-github-0-bf-f11"
+    "tag": "0bf87019"
   },
   "/docs/docs/tags/github-account-configuration-f1f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-github-account-configurationd-1-d-492"
+    "tag": "d1d9e283"
   },
   "/docs/docs/tags/google-4bb": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-google-241-3c5"
+    "tag": "2413abd9"
   },
   "/docs/docs/tags/google-assistant-sdk-66c": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-google-assistant-sdkd-54-1fa"
+    "tag": "d54ad130"
   },
   "/docs/docs/tags/hbo-2c6": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-hboaab-e69"
+    "tag": "aab15221"
   },
   "/docs/docs/tags/infographic-afa": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-infographic-012-22a"
+    "tag": "012505bc"
   },
   "/docs/docs/tags/jenkins-fc8": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-jenkins-850-75b"
+    "tag": "850de48d"
   },
   "/docs/docs/tags/linux-907": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-linux-204-c68"
+    "tag": "2041ab63"
   },
   "/docs/docs/tags/raspberry-pi-3cc": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-raspberry-pic-0-a-48c"
+    "tag": "c0a9aae0"
   },
   "/docs/docs/tags/unix-a08": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-unixa-80-2ef"
+    "tag": "a803f2ec"
   },
   "/docs/docs/tags/vs-code-69c": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "tag": "tag---docs-docs-tags-vs-coded-43-708"
+    "tag": "d43ddb07"
   },
   "/docs/markdown-page-f4d": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docs-markdown-page-658-002"
+      "plugin": "658daea1"
     },
-    "content": "content---docs-markdown-page-393-8aa"
+    "content": "393be207"
   },
   "/docs/my-markdown-page-1f1": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docs-markdown-page-658-002"
+      "plugin": "658daea1"
     },
-    "content": "content---docs-my-markdown-page-031-cc6"
+    "content": "03181aef"
   },
   "/docs/docs-7d1": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docs-docs-tags-430-4f9"
+      "plugin": "4302dc49"
     },
-    "versionMetadata": "versionMetadata---docs-docs-935-7d8"
+    "versionMetadata": "935f2afb"
   },
   "/docs/docs/developer-docs/-480": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-32-d-94e"
+    "__comp": "17896441",
+    "content": "32da4c12"
   },
   "/docs/docs/developer-docs/embed-google-assistant/-587": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-f-13-f88"
+    "__comp": "17896441",
+    "content": "f133e76f"
   },
   "/docs/docs/developer-docs/embed-google-assistant/developer-account-f40": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-developer-account-853-a8e"
+    "__comp": "17896441",
+    "content": "853dc747"
   },
   "/docs/docs/developer-docs/embed-google-assistant/hardware-and-network-ab5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-hardware-and-networka-3-e-ce6"
+    "__comp": "17896441",
+    "content": "a3e115ad"
   },
   "/docs/docs/developer-docs/embed-google-assistant/install-sdk-3de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-install-sdkc-3-d-2c9"
+    "__comp": "17896441",
+    "content": "c3d071f7"
   },
   "/docs/docs/developer-docs/embed-google-assistant/register-device-f97": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-register-device-44-c-6d2"
+    "__comp": "17896441",
+    "content": "44cdadfb"
   },
   "/docs/docs/developer-docs/embed-google-assistant/run-sample-code-2d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-embed-google-assistant-run-sample-code-41-d-496"
+    "__comp": "17896441",
+    "content": "41d25d2d"
   },
   "/docs/docs/developer-docs/git/-13d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-git-0-ee-86c"
+    "__comp": "17896441",
+    "content": "0ee1573a"
   },
   "/docs/docs/developer-docs/git/advanced-git-2ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-git-advanced-git-315-a1f"
+    "__comp": "17896441",
+    "content": "31580a75"
   },
   "/docs/docs/developer-docs/git/git-setup-d6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-git-git-setup-003-f2d"
+    "__comp": "17896441",
+    "content": "00350c19"
   },
   "/docs/docs/developer-docs/git/gitlab-30a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-git-gitlab-29-e-838"
+    "__comp": "17896441",
+    "content": "29e3dc19"
   },
   "/docs/docs/developer-docs/git/master-git-ee5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-developer-docs-git-master-git-1-db-76a"
+    "__comp": "17896441",
+    "content": "1dbfd419"
   },
   "/docs/docs/intro-e37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-intro-0-e-3-261"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/docs/product/-4f8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-product-a-5-f-5e3"
+    "__comp": "17896441",
+    "content": "a5f049f8"
   },
   "/docs/docs/product/2 Prime Day Strategies used by Top Performers in 2021-db1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-product-2-prime-day-strategies-used-by-top-performers-in-2021843-fc8"
+    "__comp": "17896441",
+    "content": "843ac718"
   },
   "/docs/docs/product/cross-category-ads-6c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-product-cross-category-ads-93-a-736"
+    "__comp": "17896441",
+    "content": "93ad92a2"
   },
   "/docs/docs/product/multichannel-investment-258": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-product-multichannel-investment-487-634"
+    "__comp": "17896441",
+    "content": "4875992c"
   },
   "/docs/docs/technical-specifications/-a18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-technical-specifications-368-a8a"
+    "__comp": "17896441",
+    "content": "3687fe1e"
   },
   "/docs/docs/technical-specifications/HBO-HDR_Spec-734": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-technical-specifications-hbo-hdr-spec-0-cf-6bd"
+    "__comp": "17896441",
+    "content": "0cf5a25f"
   },
   "/docs/docs/technical-specifications/HBO-SDR_Spec-3e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-technical-specifications-hbo-sdr-specfd-1-e09"
+    "__comp": "17896441",
+    "content": "fd184c6a"
   },
   "/docs/docs/technical-specifications/media-manifest-core-2e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-technical-specifications-media-manifest-core-602-8b9"
+    "__comp": "17896441",
+    "content": "60256d39"
   },
   "/docs/docs/visuals/-c2e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-visuals-9-a-1-58f"
+    "__comp": "17896441",
+    "content": "9a1512d5"
   },
   "/docs/docs/visuals/fb-business-model-208": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-visuals-fb-business-modelb-14-589"
+    "__comp": "17896441",
+    "content": "b1427e50"
   },
   "/docs/docs/visuals/small-kitchen-appliance-b35": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-visuals-small-kitchen-appliance-842-781"
+    "__comp": "17896441",
+    "content": "8429090a"
   },
   "/docs/-a36": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docs-markdown-page-658-002"
+      "plugin": "658daea1"
     },
-    "config": "config---docs-5-e-9-4ea"
+    "config": "5e9f5e1a"
   }
 }
