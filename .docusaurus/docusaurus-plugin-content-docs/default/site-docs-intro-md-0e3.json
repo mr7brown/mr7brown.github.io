@@ -1,0 +1,102 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Welcome to Ashton's Portfolio",
+  "description": "Here is a collection of projects I've completed over the past decade. Each project is grouped according to the intended audience. At the top of each doc is an introduction to the doc, including: my role in the project, doc publishing, and where I obtained the information to create the content.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "Data Analytics",
+      "permalink": "/docs/docs/tags/data-analytics"
+    },
+    {
+      "label": "Infographic",
+      "permalink": "/docs/docs/tags/infographic"
+    },
+    {
+      "label": "Data Visualization",
+      "permalink": "/docs/docs/tags/data-visualization"
+    },
+    {
+      "label": "Adobe InDesign",
+      "permalink": "/docs/docs/tags/adobe-in-design"
+    },
+    {
+      "label": "Adobe Illustrator",
+      "permalink": "/docs/docs/tags/adobe-illustrator"
+    },
+    {
+      "label": "Facebook",
+      "permalink": "/docs/docs/tags/facebook"
+    },
+    {
+      "label": "Google",
+      "permalink": "/docs/docs/tags/google"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/docs/docs/tags/amazon"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Introduction",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Data Analytics",
+      "Infographic",
+      "Data Visualization",
+      "Adobe InDesign",
+      "Adobe Illustrator",
+      "Facebook",
+      "Google",
+      "HBO",
+      "Amazon"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Developer Docs",
+    "permalink": "/docs/docs/developer-docs/"
+  }
+}

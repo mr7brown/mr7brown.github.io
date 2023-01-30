@@ -1,0 +1,66 @@
+{
+  "unversionedId": "developer-docs/embed-google-assistant/run-sample-code",
+  "id": "developer-docs/embed-google-assistant/run-sample-code",
+  "title": "Introduction",
+  "description": "Before you begin, you can either dive straight in by using the sidebar to have a linear read-through the developer docs. Alternatively, you may be interested in product or tool specific documentation. If this is you, use the tags at the bottom of the page to filter the docs to only those that pertain to the selected tag.",
+  "source": "@site/docs/developer-docs/embed-google-assistant/run-sample-code.md",
+  "sourceDirName": "developer-docs/embed-google-assistant",
+  "slug": "/developer-docs/embed-google-assistant/run-sample-code",
+  "permalink": "/docs/docs/developer-docs/embed-google-assistant/run-sample-code",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/embed-google-assistant/run-sample-code.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/docs/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Run the Sample Code",
+    "sidebar_position": 5,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install the SDK and Sample Code",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/install-sdk"
+  },
+  "next": {
+    "title": "Git/GitLab",
+    "permalink": "/docs/docs/developer-docs/git/"
+  }
+}

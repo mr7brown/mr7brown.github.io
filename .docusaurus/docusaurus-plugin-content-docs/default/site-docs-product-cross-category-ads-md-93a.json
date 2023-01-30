@@ -1,0 +1,46 @@
+{
+  "unversionedId": "product/cross-category-ads",
+  "id": "product/cross-category-ads",
+  "title": "How cross-category ads improve reach for coffee advertisers",
+  "description": "For this doc, I was the sole author. To write this article I collaborated with the lead researcher to understand the data collected for the purchas of improving new-to-brand customer growth.",
+  "source": "@site/docs/product/cross-category-ads.md",
+  "sourceDirName": "product",
+  "slug": "/product/cross-category-ads",
+  "permalink": "/docs/docs/product/cross-category-ads",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/product/cross-category-ads.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/docs/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/docs/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/docs/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "How cross-category ads improve reach for coffee advertisers",
+    "sidebar_position": 3,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 Prime Day Strategies used by Top Performers in 2021",
+    "permalink": "/docs/docs/product/2 Prime Day Strategies used by Top Performers in 2021"
+  },
+  "next": {
+    "title": "Visuals",
+    "permalink": "/docs/docs/visuals/"
+  }
+}

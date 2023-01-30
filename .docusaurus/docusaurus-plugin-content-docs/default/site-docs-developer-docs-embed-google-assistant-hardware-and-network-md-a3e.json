@@ -1,0 +1,66 @@
+{
+  "unversionedId": "developer-docs/embed-google-assistant/hardware-and-network",
+  "id": "developer-docs/embed-google-assistant/hardware-and-network",
+  "title": "Configure and Test Audio",
+  "description": "For this doc, I was the sole author. To write this Raspberry Pi configuration doc, I worked directly with Google engineers to test and configure the Pi to configuire and test the USB microphone/speaker.",
+  "source": "@site/docs/developer-docs/embed-google-assistant/hardware-and-network.md",
+  "sourceDirName": "developer-docs/embed-google-assistant",
+  "slug": "/developer-docs/embed-google-assistant/hardware-and-network",
+  "permalink": "/docs/docs/developer-docs/embed-google-assistant/hardware-and-network",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/embed-google-assistant/hardware-and-network.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/docs/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Configure and Test Audio",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Google Assistant",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/"
+  },
+  "next": {
+    "title": "Configure Developer Account and Account Settings",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/developer-account"
+  }
+}

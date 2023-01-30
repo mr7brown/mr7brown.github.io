@@ -1,0 +1,66 @@
+{
+  "unversionedId": "developer-docs/embed-google-assistant/install-sdk",
+  "id": "developer-docs/embed-google-assistant/install-sdk",
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/developer-docs/embed-google-assistant/install-sdk.md",
+  "sourceDirName": "developer-docs/embed-google-assistant",
+  "slug": "/developer-docs/embed-google-assistant/install-sdk",
+  "permalink": "/docs/docs/developer-docs/embed-google-assistant/install-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/embed-google-assistant/install-sdk.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/docs/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Install the SDK and Sample Code",
+    "sidebar_position": 4,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Register the Device Model",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/register-device"
+  },
+  "next": {
+    "title": "Run the Sample Code",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/run-sample-code"
+  }
+}

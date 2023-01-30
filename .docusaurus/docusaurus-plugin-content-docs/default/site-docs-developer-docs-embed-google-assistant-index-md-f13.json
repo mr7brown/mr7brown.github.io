@@ -1,0 +1,71 @@
+{
+  "unversionedId": "developer-docs/embed-google-assistant/index",
+  "id": "developer-docs/embed-google-assistant/index",
+  "title": "Introduction",
+  "description": "For all nested docs, I was the sole author on the project. the goal for the project was to enable third-party developers to download and embed the Google Assistant first with a Raspberry Pi and later with an original device. Embedding the Assistant with the Pi was the second phase of the Google Developers Built-in program, which I also helped implement.",
+  "source": "@site/docs/developer-docs/embed-google-assistant/index.md",
+  "sourceDirName": "developer-docs/embed-google-assistant",
+  "slug": "/developer-docs/embed-google-assistant/",
+  "permalink": "/docs/docs/developer-docs/embed-google-assistant/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/embed-google-assistant/index.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github Account Configuration",
+      "permalink": "/docs/docs/tags/github-account-configuration"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "API",
+      "permalink": "/docs/docs/tags/api"
+    },
+    {
+      "label": "Google",
+      "permalink": "/docs/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Embed Google Assistant",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github Account Configuration",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "API",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Docs",
+    "permalink": "/docs/docs/developer-docs/"
+  },
+  "next": {
+    "title": "Configure and Test Audio",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/hardware-and-network"
+  }
+}

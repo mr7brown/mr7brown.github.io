@@ -1,0 +1,46 @@
+{
+  "unversionedId": "product/multichannel-investment",
+  "id": "product/multichannel-investment",
+  "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+  "description": "To write this article I collaborated with the lead researcher to understand the data collected for the purchas of improving new-to-brand customer growth.",
+  "source": "@site/docs/product/multichannel-investment.md",
+  "sourceDirName": "product",
+  "slug": "/product/multichannel-investment",
+  "permalink": "/docs/docs/product/multichannel-investment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/product/multichannel-investment.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/docs/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/docs/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/docs/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+    "sidebar_position": 1,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Docs",
+    "permalink": "/docs/docs/product/"
+  },
+  "next": {
+    "title": "2 Prime Day Strategies used by Top Performers in 2021",
+    "permalink": "/docs/docs/product/2 Prime Day Strategies used by Top Performers in 2021"
+  }
+}

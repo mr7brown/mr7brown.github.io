@@ -1,0 +1,56 @@
+{
+  "unversionedId": "visuals/index",
+  "id": "visuals/index",
+  "title": "Introduction",
+  "description": "In this section you will see visualizations created to provide a unique reader experience. While longform content is essential to understanding complex technical information, illustrations can also be an effective tool for presenting information.",
+  "source": "@site/docs/visuals/index.md",
+  "sourceDirName": "visuals",
+  "slug": "/visuals/",
+  "permalink": "/docs/docs/visuals/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/visuals/index.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/docs/docs/tags/data-analytics"
+    },
+    {
+      "label": "Infographic",
+      "permalink": "/docs/docs/tags/infographic"
+    },
+    {
+      "label": "Data Visualization",
+      "permalink": "/docs/docs/tags/data-visualization"
+    },
+    {
+      "label": "Adobe InDesign",
+      "permalink": "/docs/docs/tags/adobe-in-design"
+    },
+    {
+      "label": "Adobe Illustrator",
+      "permalink": "/docs/docs/tags/adobe-illustrator"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Visuals",
+    "sidebar_position": 4,
+    "tags": [
+      "Data Analytics",
+      "Infographic",
+      "Data Visualization",
+      "Adobe InDesign",
+      "Adobe Illustrator"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How cross-category ads improve reach for coffee advertisers",
+    "permalink": "/docs/docs/product/cross-category-ads"
+  },
+  "next": {
+    "title": "UK Small Kitchen Appliances Infographic",
+    "permalink": "/docs/docs/visuals/small-kitchen-appliance"
+  }
+}

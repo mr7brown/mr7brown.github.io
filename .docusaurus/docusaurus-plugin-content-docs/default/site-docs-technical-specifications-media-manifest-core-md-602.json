@@ -1,0 +1,71 @@
+{
+  "unversionedId": "technical-specifications/media-manifest-core",
+  "id": "technical-specifications/media-manifest-core",
+  "title": "HBO Media Manifest Core",
+  "description": "The purpose of this document is to document and define WarnerMedia's requirements for the successful delivery of content and technical metadata using MovieLabs Media Manifest Core (MMC).",
+  "source": "@site/docs/technical-specifications/media-manifest-core.md",
+  "sourceDirName": "technical-specifications",
+  "slug": "/technical-specifications/media-manifest-core",
+  "permalink": "/docs/docs/technical-specifications/media-manifest-core",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/technical-specifications/media-manifest-core.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/docs/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "HBO Media Manifest Metadata",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Specifications",
+    "permalink": "/docs/docs/technical-specifications/"
+  },
+  "next": {
+    "title": "HBO High-Definition Range",
+    "permalink": "/docs/docs/technical-specifications/HBO-HDR_Spec"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "unversionedId": "developer-docs/git/index",
+  "id": "developer-docs/git/index",
+  "title": "Introduction",
+  "description": "Before you begin, you can either dive straight in by using the sidebar to have a linear read-through the developer docs. Alternatively, you may be interested in product or tool specific documentation. If this is you, use the tags at the bottom of the page to filter the docs to only those that pertain to the selected tag.",
+  "source": "@site/docs/developer-docs/git/index.md",
+  "sourceDirName": "developer-docs/git",
+  "slug": "/developer-docs/git/",
+  "permalink": "/docs/docs/developer-docs/git/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/git/index.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Git/GitLab",
+    "sidebar_position": 1,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "HBO",
+      "VS Code"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run the Sample Code",
+    "permalink": "/docs/docs/developer-docs/embed-google-assistant/run-sample-code"
+  },
+  "next": {
+    "title": "HBO Gitlab-setup",
+    "permalink": "/docs/docs/developer-docs/git/gitlab"
+  }
+}

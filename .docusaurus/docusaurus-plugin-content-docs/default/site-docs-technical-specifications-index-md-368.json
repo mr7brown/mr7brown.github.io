@@ -1,0 +1,71 @@
+{
+  "unversionedId": "technical-specifications/index",
+  "id": "technical-specifications/index",
+  "title": "Introduction",
+  "description": "Before you begin, you can either dive straight in by using the sidebar to have a linear read-through the developer docs. Alternatively, you may be interested in product or tool specific documentation. If this is you, use the tags at the bottom of the page to filter the docs to only those that pertain to the selected tag.",
+  "source": "@site/docs/technical-specifications/index.md",
+  "sourceDirName": "technical-specifications",
+  "slug": "/technical-specifications/",
+  "permalink": "/docs/docs/technical-specifications/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/technical-specifications/index.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/docs/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Technical Specifications",
+    "sidebar_position": 2,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mastering Git",
+    "permalink": "/docs/docs/developer-docs/git/master-git"
+  },
+  "next": {
+    "title": "HBO Media Manifest Metadata",
+    "permalink": "/docs/docs/technical-specifications/media-manifest-core"
+  }
+}

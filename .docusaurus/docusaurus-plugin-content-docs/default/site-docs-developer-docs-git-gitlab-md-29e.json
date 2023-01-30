@@ -1,0 +1,61 @@
+{
+  "unversionedId": "developer-docs/git/gitlab",
+  "id": "developer-docs/git/gitlab",
+  "title": "Overview",
+  "description": "This guide assumes that you have access to HBO's GitLab instance and have installed the Gatsby CLI.",
+  "source": "@site/docs/developer-docs/git/gitlab.md",
+  "sourceDirName": "developer-docs/git",
+  "slug": "/developer-docs/git/gitlab",
+  "permalink": "/docs/docs/developer-docs/git/gitlab",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/git/gitlab.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "HBO Gitlab-setup",
+    "sidebar_position": 1,
+    "tags": [
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git/GitLab",
+    "permalink": "/docs/docs/developer-docs/git/"
+  },
+  "next": {
+    "title": "Getting Started with Git",
+    "permalink": "/docs/docs/developer-docs/git/git-setup"
+  }
+}

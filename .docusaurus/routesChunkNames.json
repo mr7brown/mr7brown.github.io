@@ -1,0 +1,460 @@
+{
+  "/docs/__docusaurus/debug-d38": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/__docusaurus/debug/config-902": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/__docusaurus/debug/content-857": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    },
+    "allContent": "allContent---docs-docusaurus-debug-content-246-f36"
+  },
+  "/docs/__docusaurus/debug/globalData-f7d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/__docusaurus/debug/metadata-7fb": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/__docusaurus/debug/registry-2bb": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/__docusaurus/debug/routes-8ff": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debug-989-0ba"
+    }
+  },
+  "/docs/blog-a89": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "items": [
+      {
+        "content": "content---docs-blog-766-eb1"
+      },
+      {
+        "content": "content---docs-blogf-4-f-d6a"
+      },
+      {
+        "content": "content---docs-blog-871-997"
+      },
+      {
+        "content": "content---docs-blog-925-d65"
+      }
+    ],
+    "metadata": "metadata---docs-blog-6-e-5-255"
+  },
+  "/docs/blog/archive-989": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "archive": "archive---docs-blog-archivee-14-c5f"
+  },
+  "/docs/blog/first-blog-post-37f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "content": "content---docs-blog-first-blog-poste-27-e58"
+  },
+  "/docs/blog/long-blog-post-ec4": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "content": "content---docs-blog-long-blog-post-736-593"
+  },
+  "/docs/blog/mdx-blog-post-be8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "content": "content---docs-blog-mdx-blog-post-593-e02"
+  },
+  "/docs/blog/tags-ae3": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "tags": "tags---docs-blog-tags-96-c-b2e"
+  },
+  "/docs/blog/tags/docusaurus-1b7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "items": [
+      {
+        "content": "content---docs-blog-766-eb1"
+      },
+      {
+        "content": "content---docs-blogf-4-f-d6a"
+      },
+      {
+        "content": "content---docs-blog-871-997"
+      },
+      {
+        "content": "content---docs-blog-925-d65"
+      }
+    ],
+    "tag": "tag---docs-blog-tags-docusaurus-7-d-2-514",
+    "listMetadata": "listMetadata---docs-blog-tags-docusaurus-8-dc-f5e"
+  },
+  "/docs/blog/tags/facebook-cb2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "items": [
+      {
+        "content": "content---docs-blog-766-eb1"
+      }
+    ],
+    "tag": "tag---docs-blog-tags-facebookb-50-e6d",
+    "listMetadata": "listMetadata---docs-blog-tags-facebook-75-a-357"
+  },
+  "/docs/blog/tags/hello-700": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "items": [
+      {
+        "content": "content---docs-blog-766-eb1"
+      },
+      {
+        "content": "content---docs-blog-871-997"
+      }
+    ],
+    "tag": "tag---docs-blog-tags-hello-8-af-133",
+    "listMetadata": "listMetadata---docs-blog-tags-helloff-1-d3c"
+  },
+  "/docs/blog/tags/hola-89b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "items": [
+      {
+        "content": "content---docs-blog-925-d65"
+      }
+    ],
+    "tag": "tag---docs-blog-tags-holaf-03-9b6",
+    "listMetadata": "listMetadata---docs-blog-tags-hola-3-a-2-9b1"
+  },
+  "/docs/blog/welcome-243": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---docs-blog-44-e-f56"
+    },
+    "sidebar": "sidebar---docs-blog-814-2a0",
+    "content": "content---docs-blog-welcomed-9-f-488"
+  },
+  "/docs/docs/tags-0ac": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tags": "tags---docs-docs-tags-559-dbc"
+  },
+  "/docs/docs/tags/account-configuration-a44": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-account-configuration-79-b-585"
+  },
+  "/docs/docs/tags/adobe-illustrator-b58": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-adobe-illustratord-4-c-4f4"
+  },
+  "/docs/docs/tags/adobe-in-design-664": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-adobe-in-design-77-d-863"
+  },
+  "/docs/docs/tags/advertising-53a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-advertisingfc-4-9c6"
+  },
+  "/docs/docs/tags/amazon-028": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-amazon-56-a-74d"
+  },
+  "/docs/docs/tags/api-db5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-apid-6-a-423"
+  },
+  "/docs/docs/tags/data-analytics-ae9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-data-analytics-504-8e1"
+  },
+  "/docs/docs/tags/data-visualization-8ec": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-data-visualization-01-b-e50"
+  },
+  "/docs/docs/tags/facebook-d0e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-facebook-9-df-06b"
+  },
+  "/docs/docs/tags/git-b2f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-git-7-f-7-ff2"
+  },
+  "/docs/docs/tags/github-f9f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-github-0-bf-f11"
+  },
+  "/docs/docs/tags/github-account-configuration-f1f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-github-account-configurationd-1-d-492"
+  },
+  "/docs/docs/tags/google-4bb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-google-241-3c5"
+  },
+  "/docs/docs/tags/google-assistant-sdk-66c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-google-assistant-sdkd-54-1fa"
+  },
+  "/docs/docs/tags/hbo-2c6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-hboaab-e69"
+  },
+  "/docs/docs/tags/infographic-afa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-infographic-012-22a"
+  },
+  "/docs/docs/tags/jenkins-fc8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-jenkins-850-75b"
+  },
+  "/docs/docs/tags/linux-907": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-linux-204-c68"
+  },
+  "/docs/docs/tags/raspberry-pi-3cc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-raspberry-pic-0-a-48c"
+  },
+  "/docs/docs/tags/unix-a08": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-unixa-80-2ef"
+  },
+  "/docs/docs/tags/vs-code-69c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "tag": "tag---docs-docs-tags-vs-coded-43-708"
+  },
+  "/docs/markdown-page-f4d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docs-markdown-page-658-002"
+    },
+    "content": "content---docs-markdown-page-393-8aa"
+  },
+  "/docs/my-markdown-page-1f1": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docs-markdown-page-658-002"
+    },
+    "content": "content---docs-my-markdown-page-031-cc6"
+  },
+  "/docs/docs-7d1": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-docs-tags-430-4f9"
+    },
+    "versionMetadata": "versionMetadata---docs-docs-935-7d8"
+  },
+  "/docs/docs/developer-docs/-480": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-32-d-94e"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/-587": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-f-13-f88"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/developer-account-f40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-developer-account-853-a8e"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/hardware-and-network-ab5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-hardware-and-networka-3-e-ce6"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/install-sdk-3de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-install-sdkc-3-d-2c9"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/register-device-f97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-register-device-44-c-6d2"
+  },
+  "/docs/docs/developer-docs/embed-google-assistant/run-sample-code-2d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-embed-google-assistant-run-sample-code-41-d-496"
+  },
+  "/docs/docs/developer-docs/git/-13d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-git-0-ee-86c"
+  },
+  "/docs/docs/developer-docs/git/advanced-git-2ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-git-advanced-git-315-a1f"
+  },
+  "/docs/docs/developer-docs/git/git-setup-d6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-git-git-setup-003-f2d"
+  },
+  "/docs/docs/developer-docs/git/gitlab-30a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-git-gitlab-29-e-838"
+  },
+  "/docs/docs/developer-docs/git/master-git-ee5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-developer-docs-git-master-git-1-db-76a"
+  },
+  "/docs/docs/intro-e37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-intro-0-e-3-261"
+  },
+  "/docs/docs/product/-4f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-product-a-5-f-5e3"
+  },
+  "/docs/docs/product/2 Prime Day Strategies used by Top Performers in 2021-db1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-product-2-prime-day-strategies-used-by-top-performers-in-2021843-fc8"
+  },
+  "/docs/docs/product/cross-category-ads-6c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-product-cross-category-ads-93-a-736"
+  },
+  "/docs/docs/product/multichannel-investment-258": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-product-multichannel-investment-487-634"
+  },
+  "/docs/docs/technical-specifications/-a18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-technical-specifications-368-a8a"
+  },
+  "/docs/docs/technical-specifications/HBO-HDR_Spec-734": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-technical-specifications-hbo-hdr-spec-0-cf-6bd"
+  },
+  "/docs/docs/technical-specifications/HBO-SDR_Spec-3e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-technical-specifications-hbo-sdr-specfd-1-e09"
+  },
+  "/docs/docs/technical-specifications/media-manifest-core-2e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-technical-specifications-media-manifest-core-602-8b9"
+  },
+  "/docs/docs/visuals/-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-visuals-9-a-1-58f"
+  },
+  "/docs/docs/visuals/fb-business-model-208": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-visuals-fb-business-modelb-14-589"
+  },
+  "/docs/docs/visuals/small-kitchen-appliance-b35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docs-visuals-small-kitchen-appliance-842-781"
+  },
+  "/docs/-a36": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---docs-markdown-page-658-002"
+    },
+    "config": "config---docs-5-e-9-4ea"
+  }
+}

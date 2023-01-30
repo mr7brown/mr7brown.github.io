@@ -1,0 +1,148 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "developer-docs/embed-google-assistant/developer-account",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/developer-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/embed-google-assistant/hardware-and-network",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/hardware-and-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/embed-google-assistant/index",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/embed-google-assistant/install-sdk",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/install-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/embed-google-assistant/register-device",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/register-device",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/embed-google-assistant/run-sample-code",
+              "path": "/docs/docs/developer-docs/embed-google-assistant/run-sample-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/git/advanced-git",
+              "path": "/docs/docs/developer-docs/git/advanced-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/git/git-setup",
+              "path": "/docs/docs/developer-docs/git/git-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/git/gitlab",
+              "path": "/docs/docs/developer-docs/git/gitlab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/git/index",
+              "path": "/docs/docs/developer-docs/git/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/git/master-git",
+              "path": "/docs/docs/developer-docs/git/master-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-docs/index",
+              "path": "/docs/docs/developer-docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/2 Prime Day Strategies used by Top Performers in 2021",
+              "path": "/docs/docs/product/2 Prime Day Strategies used by Top Performers in 2021",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/cross-category-ads",
+              "path": "/docs/docs/product/cross-category-ads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/index",
+              "path": "/docs/docs/product/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/multichannel-investment",
+              "path": "/docs/docs/product/multichannel-investment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technical-specifications/HBO-HDR_Spec",
+              "path": "/docs/docs/technical-specifications/HBO-HDR_Spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technical-specifications/HBO-SDR_Spec",
+              "path": "/docs/docs/technical-specifications/HBO-SDR_Spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technical-specifications/index",
+              "path": "/docs/docs/technical-specifications/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technical-specifications/media-manifest-core",
+              "path": "/docs/docs/technical-specifications/media-manifest-core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "visuals/fb-business-model",
+              "path": "/docs/docs/visuals/fb-business-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "visuals/index",
+              "path": "/docs/docs/visuals/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "visuals/small-kitchen-appliance",
+              "path": "/docs/docs/visuals/small-kitchen-appliance",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

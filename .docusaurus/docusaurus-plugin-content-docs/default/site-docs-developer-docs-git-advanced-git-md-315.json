@@ -1,0 +1,56 @@
+{
+  "unversionedId": "developer-docs/git/advanced-git",
+  "id": "developer-docs/git/advanced-git",
+  "title": "Overview",
+  "description": "There has been a lot of information in this collection, but I wanted to be sure to provide a one-stop resource for Git. The final post in the collection is not as lengthy. However, it does contain some useful shortcuts and best practices that I've uncovered over the years.",
+  "source": "@site/docs/developer-docs/git/advanced-git.md",
+  "sourceDirName": "developer-docs/git",
+  "slug": "/developer-docs/git/advanced-git",
+  "permalink": "/docs/docs/developer-docs/git/advanced-git",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/git/advanced-git.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Advanced Git Commands",
+    "sidebar_position": 3,
+    "tags": [
+      "Git",
+      "Github",
+      "Linux",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with Git",
+    "permalink": "/docs/docs/developer-docs/git/git-setup"
+  },
+  "next": {
+    "title": "Mastering Git",
+    "permalink": "/docs/docs/developer-docs/git/master-git"
+  }
+}

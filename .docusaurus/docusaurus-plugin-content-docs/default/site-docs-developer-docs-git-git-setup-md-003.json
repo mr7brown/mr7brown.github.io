@@ -1,0 +1,56 @@
+{
+  "unversionedId": "developer-docs/git/git-setup",
+  "id": "developer-docs/git/git-setup",
+  "title": "Overview",
+  "description": "Welcome back! This post is designed to help you begin creating in a docs as code environment.One question frequently asked by aspiring technical writers is: How do I gain the requisite experience? And typically, responders say to join an open source project or something similar to that.",
+  "source": "@site/docs/developer-docs/git/git-setup.md",
+  "sourceDirName": "developer-docs/git",
+  "slug": "/developer-docs/git/git-setup",
+  "permalink": "/docs/docs/developer-docs/git/git-setup",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-docs/git/git-setup.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Unix",
+      "permalink": "/docs/docs/tags/unix"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Getting Started with Git",
+    "sidebar_position": 2,
+    "tags": [
+      "Git",
+      "Github",
+      "Unix",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Gitlab-setup",
+    "permalink": "/docs/docs/developer-docs/git/gitlab"
+  },
+  "next": {
+    "title": "Advanced Git Commands",
+    "permalink": "/docs/docs/developer-docs/git/advanced-git"
+  }
+}

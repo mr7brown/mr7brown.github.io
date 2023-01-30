@@ -1,0 +1,71 @@
+{
+  "unversionedId": "technical-specifications/HBO-HDR_Spec",
+  "id": "technical-specifications/HBO-HDR_Spec",
+  "title": "Welcome to Ashton's portfolio",
+  "description": "Here is a collection of projects I've completed over the past decade. Each project is grouped according to the intended audience. At the top of each doc is an introduction to the doc, including: my role in the project, doc publishing, and where I obtained the information to create the content.",
+  "source": "@site/docs/technical-specifications/HBO-HDR_Spec.md",
+  "sourceDirName": "technical-specifications",
+  "slug": "/technical-specifications/HBO-HDR_Spec",
+  "permalink": "/docs/docs/technical-specifications/HBO-HDR_Spec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/technical-specifications/HBO-HDR_Spec.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/docs/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/docs/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/docs/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/docs/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/docs/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/docs/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/docs/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/docs/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "HBO High-Definition Range",
+    "sidebar_position": 1,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Media Manifest Metadata",
+    "permalink": "/docs/docs/technical-specifications/media-manifest-core"
+  },
+  "next": {
+    "title": "HBO Standard-Definition Range",
+    "permalink": "/docs/docs/technical-specifications/HBO-SDR_Spec"
+  }
+}
